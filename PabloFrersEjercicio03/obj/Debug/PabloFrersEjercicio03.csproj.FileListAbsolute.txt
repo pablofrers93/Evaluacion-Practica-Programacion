@@ -1,0 +1,6 @@
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/bin/Debug/PabloFrersEjercicio03.exe
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/bin/Debug/PabloFrersEjercicio03.pdb
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/obj/Debug/PabloFrersEjercicio03.csprojAssemblyReference.cache
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/obj/Debug/PabloFrersEjercicio03.csproj.CoreCompileInputs.cache
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/obj/Debug/PabloFrersEjercicio03.exe
+/Users/pabloycami/Desktop/Ejercicios 12 Julio Programacion/PabloFrersEjercicio03/obj/Debug/PabloFrersEjercicio03.pdb
